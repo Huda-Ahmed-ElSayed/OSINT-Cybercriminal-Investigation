@@ -35,11 +35,11 @@ osint-investigation-darkwebx/
 ---
 
 ## 📑 Deliverables  
-- ✅ Verified social media accounts (25 platforms)  
-- ✅ Email analysis (no active emails found)  
-- ✅ Breach check (no compromised accounts)  
-- ✅ IP addresses traced (1 public, 1 private)  
-- ✅ Full OSINT investigation report (PDF)  
+- Verified social media accounts (25 platforms)  
+- Email analysis (no active emails found)  
+- Breach check (no compromised accounts)  
+- IP addresses traced (1 public, 1 private)  
+- Full OSINT investigation report (PDF)  
 
 ---
 
@@ -47,5 +47,3 @@ osint-investigation-darkwebx/
 This project was conducted **for educational purposes only**.  
 All data was collected from **publicly available sources**.  
 No illegal activities or unauthorized system intrusions were performed.  
-## 📂 Repository Structure  
-
