@@ -30,8 +30,7 @@ osint-investigation-darkwebx/
 │
 ├── README.md # Project overview
 ├── report/ # Final OSINT report
-├── findings/ # Screenshots of tool outputs
-└── docs/ # (Optional extra diagrams/methodology)
+└── findings/ # Screenshots of tool outputs
 
 ---
 
